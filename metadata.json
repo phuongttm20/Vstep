@@ -1,0 +1,6 @@
+{
+  "name": "Nền Tảng Anh Ngữ",
+  "description": "Trang web học ngữ pháp tiếng Anh cho người mất gốc: 6 thì cơ bản, mệnh đề quan hệ, từ vựng VSTEP và game luyện nghe chọn đáp án.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
